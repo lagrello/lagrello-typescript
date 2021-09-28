@@ -1,7 +1,3 @@
-## @
-
-This generator creates TypeScript/JavaScript client that utilizes fetch-api. 
-
 ### Building
 
 To build and compile the typescript sources to javascript use:
